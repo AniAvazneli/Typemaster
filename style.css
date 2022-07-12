@@ -500,10 +500,10 @@ header{
         left:28%
     }
     .secondSecTexts{
-        /* position: absolute; */
+        position: absolute;
         display: flex;
         left:66%;
-        top: 37%;
+        top: 815px;
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
