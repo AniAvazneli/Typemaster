@@ -44,6 +44,11 @@ header{
     line-height: 26px;
     text-transform: uppercase;
     color: #162542;
+    transition: 0.2s;
+}
+.preOrderDarck:hover{
+    background: #162542;
+    color: #FFFFFF;
 }
 .firstSec{
     overflow: hidden;
@@ -96,7 +101,12 @@ header{
     line-height: 26px;
     text-transform: uppercase;
     color: #FFFFFF;
+    transition: 0.2s;
 }
+.lightButton:hover{
+    background: #FF9B62;
+}
+
 .release{
     height: 26px;
     font-family: 'Barlow';
